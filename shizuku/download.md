@@ -5,3 +5,5 @@
 [GitHub Release](https://github.com/RikkaApps/Shizuku/releases)
 
 [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)
+adb push ./PVZRH_Saves/. /sdcard/Android/data/com.LanPiaoPiao.PlantsVsZombiesRH/files/
+adb pull /sdcard/Android/data/com.LanPiaoPiao.PlantsVsZombiesRH/files/. ./PVZRH_Saves/
